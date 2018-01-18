@@ -1,6 +1,6 @@
-#"Homework" 
+# "Homework" 
 
-##คำสั่งที่ใช้ใน git
+## คำสั่งที่ใช้ใน git
 
 - echo "# Homework" >> README.md
 > ใช้ในการแสดงผลข้อความในไฟล์ README.md
@@ -29,6 +29,8 @@
 
 - git push -u origin master
 > คำสั่งที่ใช้ในการอัพโหลดไฟล์ไปบน github
-
+# contact
+	https://www.facebook.com/pewdog
+	
 ### Naphisaporn Phakphrommin 5835512098
 
