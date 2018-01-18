@@ -17,8 +17,8 @@
 - git commit -m "first commit"
 > คำสั่งที่ใช้ยืนยันการเปลี่ยนแปลง code ที่เข้าไปเก็บไว้ใน repository โดยคำสั่งที่ใช้จะเป็นการยืนยันการเปลี่ยนแปลงพร้อมข้อความที่อยู่ใน " "
 
-- git config --global user.email "pewdog30@hotmail.com"
-- git config --global user.name "Naphisaporn"
+- git config --global user.email "ppp@hotmail.com"
+- git config --global user.name "username"
 > คำสั่งที่ใช้ กำหนด email และ username
 
 - git remote add origin http://github.com/naphisaporn/Homework.git
