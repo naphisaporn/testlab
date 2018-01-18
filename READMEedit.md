@@ -1,4 +1,5 @@
 #"Homework" 
+
 ##คำสั่งที่ใช้ใน git
 
 - echo "# Homework" >> README.md
@@ -28,4 +29,6 @@
 
 - git push -u origin master
 > คำสั่งที่ใช้ในการอัพโหลดไฟล์ไปบน github
+
+### Naphisaporn Phakphrommin 5835512098
 
