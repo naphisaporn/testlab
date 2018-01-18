@@ -30,7 +30,7 @@
 - git push -u origin master
 > คำสั่งที่ใช้ในการอัพโหลดไฟล์ไปบน github
 # contact
-	https://www.facebook.com/pewdog
+https://www.facebook.com/pewdog
 	
 ### Naphisaporn Phakphrommin 5835512098
 
